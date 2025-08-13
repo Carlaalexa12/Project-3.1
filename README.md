@@ -48,6 +48,4 @@ I created a simple, responsive ice cream store web app built with **Vanilla Java
 ##  Author
 
 **Carla Miranda**
-GitHub: [your-username](https://github.com/your-username)
-
-
+GitHub: [your-username](https://github.com/Carlaalexa12)
