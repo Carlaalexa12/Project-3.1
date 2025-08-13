@@ -20,7 +20,7 @@ I created a simple, responsive ice cream store web app built with **Vanilla Java
 ##  How to Run
 
 1. **Clone the repository**  
-   git clone https://github.com/your-username/sweet-scoops.git
+   git clone (https://github.com/Carlaalexa12/Project-3.1.git)
 ````
 
 2. **Navigate into the project folder**
@@ -48,4 +48,4 @@ I created a simple, responsive ice cream store web app built with **Vanilla Java
 ##  Author
 
 **Carla Miranda**
-GitHub: [your-username](https://github.com/Carlaalexa12)
+GitHub: [Carlaalexa12](https://github.com/Carlaalexa12)
